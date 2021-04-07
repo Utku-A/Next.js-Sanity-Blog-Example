@@ -1,0 +1,45 @@
+.content {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.new {
+    float: right;
+    height: 500px;
+    width: 60%;
+    margin-right: 5%;
+}
+
+.new img {
+    border-radius: 10%;
+    width: auto;
+    height: auto;
+    object-fit: fill;
+}
+
+.block {
+    float: left;
+    border-style: none;
+    height: 500px;
+    width: 30%;
+    position: fixed;
+    margin-left: 3%;
+    
+}
+
+.main {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.image {
+    float: left;
+    width: 50%;
+}
+
+.image img {
+    width: 100%;
+}
+
